@@ -4,7 +4,7 @@
 ### Predicted Lending Club® Loan Default Risk (Prediction)                                                                              
 *	Data cleaning and feature engineering on large Lending Club® loan data (122K+ rows, 145 variables)
 *	Predicted default risk and identified important features using Logistic Reg, Random Forest, CART, and XGBoost
-*	XBGoost and Logistic Reg can be used to predict loan default with high accuracy (test ROC>0.96, F1-score > 0.83)
+*	XGBoost and Logistic Reg can be used to predict loan default with high accuracy (test ROC>0.96, F1-score > 0.83)
 
 ### Sentiment Prediction and Restaurant Recommendation using Yelp® Reviews (NLP/Prediction/Recommender)
 *	NLP and TF-IDF on large Yelp restaurant review data (Las Vegas 4600 restaurants, 210K users, 444K reviews)
